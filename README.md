@@ -21,16 +21,12 @@ Just clone this repo or download as zip.
 ### Executing program
 
 Open index.html in a browser.
-```
-code blocks for commands
-```
+
 
 ## Help
 
 Please use the Comments section.
-```
-command to run if program contains helper info
-```
+
 
 ## Authors
 
