@@ -45,7 +45,7 @@ Nicolas Fodor
 
 ## License
 
-This project is licensed under the not sure License - see the LICENSE.md file for details
+This project is licensed under the "not sure" License - see the LICENSE.txt file for details
 
 ## Acknowledgments
 
