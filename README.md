@@ -32,8 +32,8 @@ Please use the Comments section.
 
 Contributors names and contact info
 
-ex. Nicolas Fodor
-ex. [@nfodor](https://twitter.com/nfodor)
+Nicolas Fodor
+[@nfodor](https://twitter.com/nfodor)
 
 ## Version History
 
