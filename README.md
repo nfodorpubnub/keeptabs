@@ -20,7 +20,7 @@ Just clone this repo or download as zip.
 
 ### Executing program
 
-Open index.html in a browser.
+Open index.html in a browser to see the code and edit only js/pubnub_tab.js to see how tab life cycles trigger instation and deinstation of a PubNub object.
 
 
 ## Help
